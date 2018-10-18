@@ -1,0 +1,60 @@
+body{
+	background-image: url("imges/glo.png");
+	background-position: top;
+	background-attachment: fixed;
+}
+
+
+	
+    
+}
+#main{
+	background-color: #33bebe ;
+}
+.hed{
+	color: white;
+	text-align:;
+	background-image: url("imges/man.jpg");
+	width: 1340px;
+	font-size: 50px;
+    
+    padding: 50px;
+
+}
+
+.aa{
+	color: black;
+	background-color: #666699;
+
+}
+.by{
+	background-color: #666699;
+}
+#com{
+	background-color: #9494b8;
+}
+.second{
+	color: black;
+	background-color: #b3b3cc;
+	text-align: center;
+}
+
+#fot{
+background-color: #666699;
+height: 40px
+
+}
+.ww{
+	color: white;
+}
+.tex{
+	color: white;
+	background-image: url("imges/VV1.jpg");
+
+}
+.dd{
+	background-color: #666699;
+	color: white
+}
+
+<!--page2-->
